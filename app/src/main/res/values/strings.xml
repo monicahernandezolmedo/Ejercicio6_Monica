@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CoroutinesApp</string>
+    <string name="cambio_de_color">Cambio de Color</string>
+    <string name="realizar_consulta">Realizar Consulta</string>
+    <string name="datos_web">Datos de la  Web</string>
+</resources>
